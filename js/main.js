@@ -54,20 +54,6 @@
     });
 
 
-    // Modal Video
-    var $videoSrc;
-    $('.btn-play').click(function () {
-        $videoSrc = $(this).data("src");
-    });
-    console.log($videoSrc);
-    $('#videoModal').on('shown.bs.modal', function (e) {
-        $("#video").attr('src', $videoSrc + "?autoplay=1&amp;modestbranding=1&amp;showinfo=0");
-    })
-    $('#videoModal').on('hide.bs.modal', function (e) {
-        $("#video").attr('src', $videoSrc);
-    })
-
-
     // Project and Testimonial carousel
     $(".project-carousel, .testimonial-carousel").owlCarousel({
         autoplay: true,
@@ -99,7 +85,7 @@
     
 })(jQuery);
 
-const textos = ["Agilidad y Flexivilidad", "Calidad", "Innovación", "Respeto"]; // Array de textos a mostrar
+const textos = ["Agilidad y Flexibilidad", "Calidad", "Innovación", "Respeto"]; // Array de textos a mostrar
 const intervalo = 2000; // Intervalo de cambio en milisegundos (2 segundos)
 
 function cambiarTexto(elementoId) {
