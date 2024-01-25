@@ -1,0 +1,102 @@
+<div class="container-fluid bgimg my-5 py-5" id="project">
+    <div class="container">
+        <div class="row g-0">
+            <div class="col-lg-6">
+                <div class="text-center text-md-start pb-5 pb-md-0 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                    <p class="fs-5 fw-medium text-white">Wompi</p>
+                    <h3 class="display-5 mb-5 text-secondary">Ahora Puedes Realiza Pagos rapidos desde cualquier Dispositivo</h3>
+                    <a class="d-inline-flex align-items-center rounded overflow-hidden border border-primary m-2">
+                        <span class="btn-lg-square bg-primary">
+                            <i class="fa fa-phone-alt text-white"></i>
+                        </span>
+                        <span class="fs-5 fw-medium mx-4">Realize su pago aqui</span>
+                    </a>
+                </div>
+
+            </div>
+            <div class="col-lg-6">
+                <div class="bg-white p-5">
+                    <p class="fs-5 fw-medium text-white">Productos Mas Buscados</p>
+                    <h3 class="display-5 mb-5 text-secondary">Contáctenos para Obtener Asesoramiento Personalizado de Nuestros Productos</h3>
+                <div class="owl-carousel project-carousel wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="project-item mb-5">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/project-1.jpg" alt="" style="height: 180px;">
+                            <div class="project-overlay">
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-1.jpg"
+                                    data-lightbox="project"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="https://tkdeoccidente.com/"><i
+                                        class="fa fa-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-4">
+                            <a class="d-block h5 text-white" href="https://tkdeoccidente.com/">Thermo King</a>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="project-item mb-5">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/project-2.jpg" alt="" style="height: 180px;">
+                            <div class="project-overlay">
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-2.jpg"
+                                    data-lightbox="project"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="https://itefectivos.com/"><i
+                                        class="fa fa-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-4">
+                            <a class="d-block h5 text-white" href="https://itefectivos.com/">IT Efectivos</a>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="project-item mb-5">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/project-3.jpg" alt="" style="height: 180px;">
+                            <div class="project-overlay">
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-3.jpg"
+                                    data-lightbox="project"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="https://grupotravelcenter.com/"><i
+                                        class="fa fa-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-4">
+                            <a class="d-block h5 text-white" href="https://grupotravelcenter.com/">Travel Center Grup</a>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="project-item mb-5">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/project-4.jpg" alt="" style="height: 180px;">
+                            <div class="project-overlay">
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-4.jpg"
+                                    data-lightbox="project"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="https://seguridadomega.com.co/"><i
+                                        class="fa fa-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-4">
+                            <a class="d-block h5 text-white" href="https://seguridadomega.com.co/">Omega Ingenieros</a>
+                            <span></span>
+                        </div>
+                    </div>
+                    <div class="project-item mb-5">
+                        <div class="position-relative">
+                            <img class="img-fluid" src="img/project-5.jpg" alt="" style="height: 180px;">
+                            <div class="project-overlay">
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="img/project-5.jpg"
+                                    data-lightbox="project"><i class="fa fa-eye"></i></a>
+                                <a class="btn btn-lg-square btn-light rounded-circle m-1" href="https://www.donjacobo.com.co/shop/category/genovesas-1"><i
+                                        class="fa fa-link"></i></a>
+                            </div>
+                        </div>
+                        <div class="p-4">
+                            <a class="d-block h5 text-white" href="https://www.donjacobo.com.co/shop/category/genovesas-1">Don Jacobo</a>
+                            <span></span>
+                        </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
